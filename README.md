@@ -2,32 +2,24 @@
   <img src="Banner.png" width="100%" />
 </p>
 
-# ⚡ TempestAir
+## 🌌 About Me
 
-💻 Web Developer in Progress  
-🌌 Building my universe one project at a time  
+💻 Web Developer in the making  
+🎮 Passionate about anime, gaming, and tech  
 
----
+I’m focused on building real-world projects and growing into a skilled developer.
 
-## 🚀 About Me
-I’m focused on becoming a skilled JavaScript developer and building real-world web applications.
+🚀 Currently working on:
+- Web development projects  
+- Expanding my JavaScript skills  
+- Building my developer identity  
 
----
+🧬 Future goals:
+- Advanced web development  
+- API & backend systems  
+- Bug bounty hunting  
 
-## ⚡ Tech Stack
-- HTML  
-- CSS  
-- JavaScript (learning)  
-- SQL  
-- Git & GitHub  
-
----
-
-## 🚀 Projects
-- Anime Database (SQL + Web App coming soon)
-- BrightMinds (Educational platform in progress)
-
----
+⚡ Always building. Always improving.
 
 ## 📈 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TempestA1r&show_icons=true&theme=tokyonight)
